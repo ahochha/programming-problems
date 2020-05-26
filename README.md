@@ -1,2 +1,2 @@
-# programming-problems
-Leetcode and other programming problems I've solved using a variety of programming languages.
+# Programming Problems
+Programming problems I've solved from LeetCode and other sources thus far. I enjoy solving programming problems, so new problems will be committed as time permits!
